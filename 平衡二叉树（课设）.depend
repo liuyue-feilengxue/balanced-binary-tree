@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1560341348 source:c:\users\asus\desktop\软工相关\666\平衡二叉树（课设）\main.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<stack>
+	<algorithm>
+	<malloc.h>
+	<queue>
+	<vector>
+	"io.h"
+	"math.h"
+	"time.h"
+
